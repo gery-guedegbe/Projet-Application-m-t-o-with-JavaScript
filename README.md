@@ -1,4 +1,4 @@
-# Projet-Application-m-t-o
+# Projet-Application-météo
 
 Site de prévisions météorologiques créer avec HTML, CSS et JavaScript.
 
